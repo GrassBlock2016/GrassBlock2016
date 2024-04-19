@@ -4,7 +4,7 @@
 
 - 📝 I regularly write articles on [grassblock2016.github.io](grassblock2016.github.io)
 
-- 📫 How to reach me **qlexander@foxmail.com**
+- 📫 How to reach me qlexander@foxmail.com
 
 ### 🔧 Languages and tools I'm interested in:
 <div style="margin-left: 1000px; line-height: 40px;">
