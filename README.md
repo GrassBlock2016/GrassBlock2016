@@ -6,7 +6,7 @@
 
 - 📫 How to reach me qlexander@foxmail.com
 
-- 🤔 Lately interested in: C++, Python, Unity, Linux
+- 🤔 Lately interested in: C++, Python, Unity, React, Linux
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrassBlock2016&layout=compact&theme=algolia&&show_icons=true&hide=tex,Cmake,Batchfile)](https://github.com/anuraghazra/github-readme-stats)
 
