@@ -2,7 +2,7 @@
 
 - 🏫 I'm an undergraduate student from **Shanghai University**
 
-- 📝 I regularly write articles on [grassblock2016.github.io](grassblock2016.github.io)
+- 📝 I regularly write articles on [grassblock2016.github.io](https://grassblock2016.github.io)
 
 - 📫 How to reach me qlexander@foxmail.com
 
