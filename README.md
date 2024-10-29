@@ -2,7 +2,7 @@
 
 - 🏫 I'm an undergraduate student from **Shanghai University**
 
-- 📝 I regularly write articles on [www.qlexander.cn](https://www.qlexander.cn)
+- 📝 I regularly write articles on [qlexander.cn](https://qlexander.cn)
 
 - 📫 How to reach me qlexander@foxmail.com
 
