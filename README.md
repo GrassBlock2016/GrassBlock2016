@@ -4,7 +4,7 @@
 
 - 📝 I regularly write articles on [qlexander.cn](https://qlexander.cn)
 
-- 📫 How to reach me qlexander@foxmail.com
+- 📫 How to reach me i@qlexander.cn
 
 - 🤔 Lately interested in: C++, Python, Unity, React, Linux
 
