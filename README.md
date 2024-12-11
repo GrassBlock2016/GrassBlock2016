@@ -1,12 +1,14 @@
-### Hi there👋 I'm @GrassBlock2016, you can call me PC!
+### Hi there 👋 I'm @GrassBlock2016, you can call me PC!
 
 - 🏫 I'm an undergraduate student from **Shanghai University**
 
-- 📝 I regularly write articles on [qlexander.cn](https://qlexander.cn)
+- 📝 You can read my blogs and my detailed personal introduction on [qlexander.cn](https://qlexander.cn)
 
 - 📫 How to reach me i@qlexander.cn
 
-- 🤔 Lately interested in: C++, Python, Unity, React, Linux
+- 🔧 Language and tools:
+
+  [![skills](https://skillicons.dev/icons?i=python,rust,cpp,matlab,fortran,react,linux,vscode)](https://skillicons.dev)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrassBlock2016&layout=compact&theme=algolia&&show_icons=true&hide=tex,Cmake,Batchfile)](https://github.com/anuraghazra/github-readme-stats)
 
