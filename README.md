@@ -8,7 +8,7 @@
 
 - 🔧 Language and tools:
 
-  [![skills](https://skillicons.dev/icons?i=python,rust,cpp,go,matlab,fortran,react,linux,vscode)](https://skillicons.dev)
+  [![skills](https://skillicons.dev/icons?i=python,rust,cpp,go,matlab,fortran,vue,react,cmake,mysql,redis,docker,kubernetes,linux,vscode)](https://skillicons.dev)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrassBlock2016&layout=compact&theme=algolia&&show_icons=true&hide=tex,Cmake,Batchfile)](https://github.com/anuraghazra/github-readme-stats)
 
