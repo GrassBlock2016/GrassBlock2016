@@ -1,10 +1,12 @@
 ### Hi there 👋 I'm @GrassBlock2016, you can call me PC!
 
-- 🏫 I'm an undergraduate student from **Shanghai University**
+- 🏫 I'm an undergraduate student from **Shanghai University**, and I have been provisionally admitted to the postgraduate program at **Shanghaitech University**
 
 - 📝 You can read my blogs and my detailed personal introduction on [qlexander.cn](https://qlexander.cn)
 
 - 📫 How to reach me i@qlexander.cn
+
+- 🌟 Research insterest: Computer Vision, Image Processing
 
 - 🔧 Language and tools:
 
