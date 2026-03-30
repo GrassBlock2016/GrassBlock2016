@@ -12,6 +12,6 @@
 
   [![skills](https://skillicons.dev/icons?i=python,rust,cpp,go,matlab,fortran,vue,react,cmake,mysql,redis,docker,kubernetes,linux,vscode)](https://skillicons.dev)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrassBlock2016&layout=compact&theme=algolia&&show_icons=true&hide=tex,Cmake,Batchfile)](https://github.com/anuraghazra/github-readme-stats)
+  ![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=GrassBlock2016&layout=compact&show_icons=true&hide=tex,Cmake,Batchfile)
 
-[![GrassBlock2016's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GrassBlock2016&theme=algolia&show_icons=true&?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  ![GrassBlock2016's GitHub Stats](https://github-readme-stats.shion.dev/api?username=GrassBlock2016&show_icons=true&?count_private=true)
