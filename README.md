@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm @GrassBlock2016, you can call me PC!
 
-- 🏫 I'm an undergraduate student from **Shanghai University**, and I have been provisionally admitted to the postgraduate program at **Shanghaitech University**
+- 🏫 I'm an graduate student from **Shanghaitech University**.
 
 - 📝 You can read my blogs and my detailed personal introduction on [qlexander.cn](https://qlexander.cn)
 
